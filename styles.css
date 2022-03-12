@@ -24,7 +24,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .btn {
@@ -70,7 +70,7 @@ body {
   background-color: var(--very-pale-blue);
   border-radius: 1rem;
   max-width: 25rem;
-  margin: 0 auto;
+ 
 }
 
 h1 {
